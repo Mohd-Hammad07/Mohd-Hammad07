@@ -7,9 +7,39 @@
 
 <p align="left"> <a href="https://twitter.com/mohdham46862517" target="blank"><img src="https://img.shields.io/twitter/follow/mohdham46862517?logo=twitter&style=for-the-badge" alt="mohdham46862517" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning.**
+-🔭 Currently Working On: Exploring various data analysis techniques, learning new tools and technologies in the field of data analytics.
 
-- 💬 Ask me about **Statistic, Data Visualization**
+🌱 Learning: Continuously enhancing my skills in Python programming, SQL, data visualization tools like Power BI and Tableau, and statistical analysis methods.
+
+💼 Skills:
+
+  = Programming: Python.
+  
+  =  Data Analysis Tools: Excel, Power BI, Tableau
+  
+  =  Database: SQL
+  
+  =  Statistics: Hypothesis testing, Regression analysis
+      
+  =  Machine Learning: Basic understanding and application.
+
+
+- Ask Me About:
+
+    Crafting impactful data visualizations that tell a story.
+    Designing effective analytical strategies to solve complex problems.
+    Harnessing the power of machine learning to predict trends and patterns.
+    Conducting rigorous statistical analysis to extract actionable insights.**
+
+👨‍💻 Portfolio Showcase: 
+
+  Check out my data adventures, explorations, and projects on my [GitHub Portfolio]([Your GitHub Profile Link](https://github.com/Mohd-Hammad07)). 
+  From predicting trends to untangling complex datasets, there's a bit of magic in every project!
+  
+
+📚 Education Pursuit:
+
+  On a quest for knowledge, pursuing a degree in Data Analytics with a focus on statistical methods, data mining, and machine learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
