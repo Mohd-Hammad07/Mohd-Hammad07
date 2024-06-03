@@ -7,9 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/mohdham46862517" target="blank"><img src="https://img.shields.io/twitter/follow/mohdham46862517?logo=twitter&style=for-the-badge" alt="mohdham46862517" /></a> </p>
 
--🔭 Currently Working On: Exploring various data analysis techniques, learning new tools and technologies in the field of data analytics.
+-🔭 Currently Working On:
+   Exploring various data analysis techniques, learning new tools and technologies in the field of data analytics.
 
-🌱 Learning: Continuously enhancing my skills in Python programming, SQL, data visualization tools like Power BI and Tableau, and statistical analysis methods.
+🌱 Learning:
+   
+   Continuously enhancing my skills in Python programming, SQL, data visualization tools like Power BI and Tableau, and statistical analysis methods.
 
 💼 Skills:
 
