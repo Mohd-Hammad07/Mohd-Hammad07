@@ -1,5 +1,5 @@
 [![MasterHead](https://www.uat.edu/media/data-science-banner.png)](https://github.com/Mohd-Hammad07)
-<h1 align="center">Hi 👋, I'm Mohd Hammad</h1>
+<h1 align="center">Hi, I'm Mohd Hammad</h1>
 <h3 align="center">PG in Data Analysis | Eager to Dive Deep into Data Science | Learning Python, SQL, and Data Visualization | Enthusiastic Learner & Problem Solver | Seeking Opportunities to Apply Analytical Skills and Contribute to Data-driven Insights.</h3>
 <img src="https://c.tenor.com/uDktrFdyUhQAAAAM/it-is-all-about-the-data-in-data-we-trust.gif" alt="Coding" style="float: right;">
 
