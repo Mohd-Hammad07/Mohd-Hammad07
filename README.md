@@ -36,7 +36,7 @@
 
 👨‍💻 Portfolio Showcase: 
 
-  Check out my data adventures, explorations, and projects on my [GitHub Portfolio]([Your GitHub Profile Link](https://github.com/Mohd-Hammad07)). 
+  Check out my data adventures, explorations, and projects on my (https://github.com/Mohd-Hammad07)). 
   From predicting trends to untangling complex datasets, there's a bit of magic in every project!
   
 
