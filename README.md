@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/uDktrFdyUhQAAAAM/it-is-all-about-the-data-in-data-we-trust.gif" alt="Coding" width="250"/>
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-hammad07&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hammad07" /> </p>
