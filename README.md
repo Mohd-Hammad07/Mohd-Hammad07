@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="centre" alt="coding" width="400" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-hammad07&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hammad07" /> </p>
 
