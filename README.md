@@ -1,10 +1,12 @@
-[![MasterHead](https://www.uat.edu/media/data-science-banner.png)](https://github.com/Mohd-Hammad07)
+<div align="center">
+  <img alt="MasterHead" width="800" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
+</div>
 <h1 align="center">Hi, I'm Mohd Hammad</h1>
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
 
-<p align="center">
 
-</p>
+<p align="center">
+<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-hammad07&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-hammad07" /> </p>
 
@@ -27,6 +29,7 @@
 - **Machine Learning**: Basic understanding and application in predictive analysis
 
 ## 👨‍💻 Projects
+- **HR Attrition Analysis**:
 - **Telecom Churn Analysis**: Migrated and enhanced the existing analysis process for telecom churn data, involving feature engineering and predictive modeling to reduce customer churn rates.
 - **Sales Forecasting Model**: Developed a machine learning model to forecast sales for a retail company, which helped in inventory management and sales strategy optimization.
 - **Interactive Dashboard**: Created an interactive Power BI dashboard for a finance company to visualize key financial metrics and trends, leading to better decision-making processes.
@@ -58,13 +61,7 @@
   </a> 
 </p>
 
-## 📈 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-hammad07&show_icons=true&locale=en&layout=compact" alt="mohd-hammad07" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-hammad07&show_icons=true&locale=en" alt="mohd-hammad07" /></p>
 
-## 🗣️ Testimonials
-- **"Mohd's attention to detail and dedication to continuous learning make him a standout in the field of data analytics."** - *Former Manager*
-- **"A highly motivated individual with a deep understanding of data analysis and a knack for solving complex problems."** - *Colleague*
 
 ## 📜 Personal & Career Goals
 - **Short-Term**: To gain more hands-on experience in machine learning and become proficient in advanced SQL.
