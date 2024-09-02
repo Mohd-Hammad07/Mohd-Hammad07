@@ -22,11 +22,14 @@
 - **Statistics & Machine Learning**: Strengthening my understanding of statistical analysis and the practical applications of machine learning in real-world scenarios.
 
 ## 💼 Skills
+- **Generative AI**: Working knowledge and application
 - **Programming**: Python
-- **Data Analysis Tools**: Excel, Power BI, Tableau
-- **Database Management**: SQL, MySQL
-- **Statistics**: Hypothesis testing, Regression analysis
-- **Machine Learning**: Basic understanding and application in predictive analysis
+- **Business Intelligence**: Excel, Power BI, Tableau, Cognos Analytics
+- **Databases**: MySQL
+- **Statistical Tools**: Jamovi, IBM SPSS Modeler, Orange
+- **Data Modeling and Analysis**
+- **Cloud**: AWS
+
 
 ## 👨‍💻 Projects
 - **HR Attrition Analysis**: Interactive Power BI Dashboard, Logistic Regression Predictive Model, Data Preprocessing Scripts, Model Evaluation Metrics.
@@ -38,6 +41,13 @@
 - **Google Data Analytics Certificate**: Completed a comprehensive course that covers data cleaning, analysis, and visualization.
 - **IBM Data Science Professional Certificate**: Gained hands-on experience with data science tools and techniques, including machine learning models and Python programming.
 - **Microsoft Certified: Data Analyst Associate**: Validated expertise in using Power BI to model, visualize, and analyze data.
+- **Managing Innovation (IIM Bangalore)**
+- **Data Visualization using Tableau**
+- **ACITE Training and Learning**
+- **ICCI (International Conference on Contemporary Issues in Management)**
+- **Introduction to Cloud Computing**
+- **IBM Cognos Analytics**
+
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
