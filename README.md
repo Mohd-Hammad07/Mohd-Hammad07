@@ -29,7 +29,7 @@
 - **Machine Learning**: Basic understanding and application in predictive analysis
 
 ## 👨‍💻 Projects
-- **HR Attrition Analysis**:
+- **HR Attrition Analysis**: Interactive Power BI Dashboard, Logistic Regression Predictive Model, Data Preprocessing Scripts, Model Evaluation Metrics.
 - **Telecom Churn Analysis**: Migrated and enhanced the existing analysis process for telecom churn data, involving feature engineering and predictive modeling to reduce customer churn rates.
 - **Sales Forecasting Model**: Developed a machine learning model to forecast sales for a retail company, which helped in inventory management and sales strategy optimization.
 - **Interactive Dashboard**: Created an interactive Power BI dashboard for a finance company to visualize key financial metrics and trends, leading to better decision-making processes.
