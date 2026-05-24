@@ -44,17 +44,6 @@ Data Analyst | Business Analytics Enthusiast | Innovator
 
 ---
 
-## GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Hammad07&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Hammad07&layout=compact&theme=default)
-
----
-
-## Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Mohd-Hammad07/Mohd-Hammad07/output/snake.svg)
-
----
-
 ## Connect
 - LinkedIn: [linkedin.com/in/mohd-hammad-business-analytics](https://www.linkedin.com/in/mohd-hammad-business-analytics)  
 
