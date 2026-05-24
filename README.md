@@ -51,12 +51,12 @@ Data Analyst | Business Analytics Enthusiast | Innovator
 ---
 
 ## Contribution Graph
-![Snake animation](https://github.com/Mohd-Hammad07/Mohd-Hammad07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mohd-Hammad07/Mohd-Hammad07/output/snake.svg)
 
 ---
 
 ## Connect
-- LinkedIn: [linkedin.com/in/mohd-hammad-business-analytics](https://www.linkedin.com/in/mohd-hammad-business-analytics)   
+- LinkedIn: [linkedin.com/in/mohd-hammad-business-analytics](https://www.linkedin.com/in/mohd-hammad-business-analytics)  
 
 ---
 
